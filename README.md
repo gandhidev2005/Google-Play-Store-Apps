@@ -4,7 +4,7 @@
 
 **A comprehensive data analysis project exploring Google Play Store apps dataset**
 
-[📊 Dataset](#-dataset) • [🚀 Features](#-features) • [📦 Installation](#-installation) • [💻 Usage](#-usage) • [📈 Results](#-results) • [📁 Project Structure](#-project-structure)
+[📊 Dataset](#-dataset) • [🚀 Features](#-features) • [📦 Installation](#-installation) • [💻 Usage](#-usage) • [📈 Results](#-results) 
 
 </div>
 
@@ -307,4 +307,5 @@ python google_play_store_analysis.py
 - The cleaned dataset (`googleplaystore_cleaned.csv`) is ready for further analysis or machine learning
 - All visualizations are saved as high-resolution PNG files (300 DPI)
 - The analysis follows best practices for EDA and data cleaning
+
 ---
